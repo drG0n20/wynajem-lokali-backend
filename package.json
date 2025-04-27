@@ -1,0 +1,15 @@
+<xaiArtifact artifact_id="56f0dd1f-dc6f-418d-a2ab-0f0304e0f9f0" artifact_version_id="2057c711-6ea0-4b1f-88fb-dbf46e96f0aa" title="package.json" contentType="application/json">
+{
+    "name": "wynajem-lokali-backend",
+    "version": "1.0.0",
+    "description": "Backend for Wynajem Lokali website",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "cors": "^2.8.5"
+    }
+}
+</xaiArtifact>
