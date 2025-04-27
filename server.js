@@ -1,4 +1,3 @@
-<xaiArtifact artifact_id="4a0b5f1e-ef5f-413c-b2c0-bd6e20c50881" artifact_version_id="9a74fce8-5362-4bf6-8b23-6ee8fbd11503" title="server.js" contentType="text/javascript">
 const express = require('express');
 const fs = require('fs').promises;
 const path = require('path');
@@ -56,4 +55,3 @@ initializeDataFile().then(() => {
         console.log(`Server running on http://localhost:${PORT}`);
     });
 });
-</xaiArtifact>
